@@ -1,5 +1,7 @@
 # Marketing and Sales Automation
 
+![AI Marketing and Sales Automation](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/06-marketing-automation.jpg)
+
 For New Zealand SMEs, marketing often feels like a Catch-22: you need to market to grow, but you're too busy running the business to market effectively. AI is changing this equation, enabling small teams to execute sophisticated marketing strategies that previously required dedicated specialists or expensive agencies.
 
 ## Learning Objectives

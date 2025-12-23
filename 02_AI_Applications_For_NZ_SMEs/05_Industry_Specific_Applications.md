@@ -1,5 +1,7 @@
 # Industry-Specific AI Applications
 
+![Industry-Specific AI Applications](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/09-industry-specific.jpg)
+
 While many AI applications work across industries, the most impactful implementations often address challenges specific to particular sectors. This lesson explores AI opportunities across New Zealand's key SME industries, helping you identify applications most relevant to your business.
 
 ## Learning Objectives

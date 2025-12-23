@@ -1,5 +1,7 @@
 # What Is Artificial Intelligence?
 
+![AI vs Machine Learning vs Automation](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/01-ai-vs-ml-automation.jpg)
+
 Welcome to the first lesson in our exploration of how artificial intelligence is reshaping the business landscape for New Zealand's small and medium enterprises. Before we dive into practical applications and implementation strategies, it's essential to establish a clear understanding of what AI actually is and why it matters for Kiwi businesses.
 
 ## Learning Objectives

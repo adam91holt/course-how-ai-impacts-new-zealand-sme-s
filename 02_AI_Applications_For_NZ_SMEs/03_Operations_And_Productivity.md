@@ -1,5 +1,7 @@
 # Operations and Productivity
 
+![AI Operations and Productivity](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/07-operations-productivity.jpg)
+
 Behind every successful SME lies efficient operations. Yet operational tasks—scheduling, administration, data management, communication—consume hours that could be spent on revenue-generating activities. AI is transforming how NZ SMEs handle these essential but time-consuming functions.
 
 ## Learning Objectives

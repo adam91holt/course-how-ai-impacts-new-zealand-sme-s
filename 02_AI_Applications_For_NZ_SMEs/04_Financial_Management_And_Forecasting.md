@@ -1,5 +1,7 @@
 # Financial Management and Forecasting
 
+![AI Financial Management and Forecasting](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/08-financial-forecasting.jpg)
+
 Sound financial management is the foundation of SME success, yet many Kiwi business owners lack finance backgrounds or the budget for dedicated CFOs. AI is democratising access to financial insights and capabilities that were once the preserve of larger businesses with professional finance teams.
 
 ## Learning Objectives

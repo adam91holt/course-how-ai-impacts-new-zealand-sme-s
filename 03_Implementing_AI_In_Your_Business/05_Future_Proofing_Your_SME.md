@@ -1,5 +1,7 @@
 # Future-Proofing Your SME
 
+![Future-Proofing Your SME with AI](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/14-future-proofing.jpg)
+
 AI technology evolves rapidly. What's cutting-edge today becomes standard tomorrow, and entirely new capabilities emerge constantly. This final lesson helps you position your SME for ongoing AI success—building adaptable foundations rather than just implementing today's tools.
 
 ## Learning Objectives

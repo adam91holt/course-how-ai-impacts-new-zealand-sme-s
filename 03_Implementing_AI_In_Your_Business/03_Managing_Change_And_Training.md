@@ -1,5 +1,7 @@
 # Managing Change and Training Your Team
 
+![Change Management for AI Adoption](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/12-change-management.jpg)
+
 Technology implementations often fail not because of the technology but because of people. Resistance to change, inadequate training, and poor communication derail more AI projects than technical issues. This lesson focuses on the human side of AI adoption—helping your team embrace and effectively use AI tools.
 
 ## Learning Objectives

@@ -1,5 +1,7 @@
 # Assessing Your AI Readiness
 
+![AI Readiness Assessment](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/10-ai-readiness.jpg)
+
 Before investing in AI tools, it's essential to honestly evaluate whether your business is ready to benefit from them. Not every SME is at the same starting point, and understanding your current state helps you focus investments where they'll deliver the best returns.
 
 ## Learning Objectives

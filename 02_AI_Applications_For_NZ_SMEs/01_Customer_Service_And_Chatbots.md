@@ -1,5 +1,7 @@
 # Customer Service and Chatbots
 
+![AI Customer Service and Chatbots](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/05-customer-service-chatbots.jpg)
+
 Customer service is often the first area where New Zealand SMEs experience the practical benefits of AI. With increasing customer expectations for instant, 24/7 support, AI-powered chatbots and customer service tools offer SMEs a way to compete with larger businesses without dramatically expanding their teams.
 
 ## Learning Objectives

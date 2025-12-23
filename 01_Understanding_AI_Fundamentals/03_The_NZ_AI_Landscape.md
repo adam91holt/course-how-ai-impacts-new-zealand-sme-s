@@ -1,5 +1,7 @@
 # The New Zealand AI Landscape
 
+![The New Zealand AI Landscape](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/03-nz-ai-landscape.jpg)
+
 Understanding the local context is crucial for NZ SMEs looking to adopt AI. This lesson explores New Zealand's unique position in the global AI ecosystem, local providers and initiatives, and how Kiwi businesses are currently engaging with AI technology.
 
 ## Learning Objectives

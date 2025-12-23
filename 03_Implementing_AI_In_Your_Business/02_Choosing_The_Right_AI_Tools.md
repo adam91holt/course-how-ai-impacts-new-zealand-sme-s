@@ -1,5 +1,7 @@
 # Choosing the Right AI Tools
 
+![Choosing the Right AI Tools](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/11-choosing-ai-tools.jpg)
+
 The AI tool landscape is overwhelming. New products launch weekly, vendors make bold claims, and distinguishing genuine value from hype is challenging. This lesson provides a practical framework for evaluating and selecting AI tools appropriate for your NZ SME.
 
 ## Learning Objectives

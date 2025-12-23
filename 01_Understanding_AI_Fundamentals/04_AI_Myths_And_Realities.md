@@ -1,5 +1,7 @@
 # AI Myths and Realities for SMEs
 
+![AI Myths vs Reality](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/04-ai-myths-reality.jpg)
+
 Before investing time and money in AI adoption, it's crucial to separate hype from reality. This lesson addresses the most common misconceptions about AI that can lead SME owners astray, and presents a balanced view of what AI can actually deliver for your business.
 
 ## Learning Objectives

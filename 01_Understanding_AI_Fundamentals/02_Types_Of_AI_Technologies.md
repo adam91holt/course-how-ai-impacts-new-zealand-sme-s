@@ -1,5 +1,7 @@
 # Types of AI Technologies
 
+![Types of AI Technologies](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/02-types-of-ai.jpg)
+
 Now that you understand what artificial intelligence is, let's explore the specific types of AI technologies that are most relevant for New Zealand SMEs. Each category offers distinct capabilities that can address different business challenges.
 
 ## Learning Objectives

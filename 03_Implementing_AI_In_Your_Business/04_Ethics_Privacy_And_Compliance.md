@@ -1,5 +1,7 @@
 # Ethics, Privacy, and NZ Compliance
 
+![AI Ethics and Privacy Principles](/courses/how-ai-impacts-new-zealand-sme-s/assets/lesson-images/13-ethics-privacy.jpg)
+
 AI adoption brings significant responsibilities. How you use AI affects your customers, staff, and community. In New Zealand, specific legal requirements govern how businesses handle data and make automated decisions. This lesson helps you navigate the ethical and legal landscape of AI use.
 
 ## Learning Objectives
