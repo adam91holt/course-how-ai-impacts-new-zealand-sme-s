@@ -10,10 +10,10 @@
       "question": "What is the most important capability for an AI chatbot to have for customer service?",
       "questionHtml": "<p>What is the most important capability for an AI chatbot to have for customer service?</p>",
       "answers": [
-        {"id": "q1_a", "text": "The ability to pretend to be human convincingly", "textHtml": "<p>The ability to pretend to be human convincingly</p>", "isCorrect": false},
-        {"id": "q1_b", "text": "A clear path to escalate to human support when needed", "textHtml": "<p>A clear path to escalate to human support when needed</p>", "isCorrect": true},
-        {"id": "q1_c", "text": "The ability to handle every possible customer query", "textHtml": "<p>The ability to handle every possible customer query</p>", "isCorrect": false},
-        {"id": "q1_d", "text": "Multilingual capabilities in at least 10 languages", "textHtml": "<p>Multilingual capabilities in at least 10 languages</p>", "isCorrect": false}
+        {"id": "q1_a", "text": "The ability to pretend to be human convincingly", "textHtml": "<p>The ability to pretend to be human convincingly</p>", "correct": false},
+        {"id": "q1_b", "text": "A clear path to escalate to human support when needed", "textHtml": "<p>A clear path to escalate to human support when needed</p>", "correct": true},
+        {"id": "q1_c", "text": "The ability to handle every possible customer query", "textHtml": "<p>The ability to handle every possible customer query</p>", "correct": false},
+        {"id": "q1_d", "text": "Multilingual capabilities in at least 10 languages", "textHtml": "<p>Multilingual capabilities in at least 10 languages</p>", "correct": false}
       ],
       "feedback": "The most important capability for a customer service chatbot is having a clear path to escalate to human support. Customers become frustrated when they can't reach a human for complex issues. Transparency about being a bot (not pretending to be human) builds trust, and no chatbot can handle every possible query.",
       "feedbackHtml": "<p>The most important capability for a customer service chatbot is having a clear path to escalate to human support. Customers become frustrated when they can't reach a human for complex issues. Transparency about being a bot (not pretending to be human) builds trust, and no chatbot can handle every possible query.</p>"
@@ -25,10 +25,10 @@
       "question": "Which of the following are recommended best practices for AI-generated marketing content? (Select all that apply)",
       "questionHtml": "<p>Which of the following are recommended best practices for AI-generated marketing content? (Select all that apply)</p>",
       "answers": [
-        {"id": "q2_a", "text": "Use AI to create first drafts, then add your unique voice and personality", "textHtml": "<p>Use AI to create first drafts, then add your unique voice and personality</p>", "isCorrect": true},
-        {"id": "q2_b", "text": "Publish AI content directly without review to save time", "textHtml": "<p>Publish AI content directly without review to save time</p>", "isCorrect": false},
-        {"id": "q2_c", "text": "Always verify facts and statistics before publishing", "textHtml": "<p>Always verify facts and statistics before publishing</p>", "isCorrect": true},
-        {"id": "q2_d", "text": "Add NZ-specific references and personal anecdotes", "textHtml": "<p>Add NZ-specific references and personal anecdotes</p>", "isCorrect": true}
+        {"id": "q2_a", "text": "Use AI to create first drafts, then add your unique voice and personality", "textHtml": "<p>Use AI to create first drafts, then add your unique voice and personality</p>", "correct": true},
+        {"id": "q2_b", "text": "Publish AI content directly without review to save time", "textHtml": "<p>Publish AI content directly without review to save time</p>", "correct": false},
+        {"id": "q2_c", "text": "Always verify facts and statistics before publishing", "textHtml": "<p>Always verify facts and statistics before publishing</p>", "correct": true},
+        {"id": "q2_d", "text": "Add NZ-specific references and personal anecdotes", "textHtml": "<p>Add NZ-specific references and personal anecdotes</p>", "correct": true}
       ],
       "feedback": "Best practices for AI marketing content include using AI for first drafts then adding your voice, verifying all facts (AI can make things up), and adding NZ-specific references and personal stories that differentiate your content. Never publish raw AI output without human review.",
       "feedbackHtml": "<p>Best practices for AI marketing content include using AI for first drafts then adding your voice, verifying all facts (AI can make things up), and adding NZ-specific references and personal stories that differentiate your content. Never publish raw AI output without human review.</p>"
@@ -40,10 +40,10 @@
       "question": "A Wellington professional services firm estimates they could save 25+ hours per week using AI tools for operations. Which combination of tools contributed most to these savings?",
       "questionHtml": "<p>A Wellington professional services firm estimates they could save 25+ hours per week using AI tools for operations. Which combination of tools contributed most to these savings?</p>",
       "answers": [
-        {"id": "q3_a", "text": "Social media scheduling and image generation", "textHtml": "<p>Social media scheduling and image generation</p>", "isCorrect": false},
-        {"id": "q3_b", "text": "Meeting transcription, scheduling automation, receipt processing, and workflow automation", "textHtml": "<p>Meeting transcription, scheduling automation, receipt processing, and workflow automation</p>", "isCorrect": true},
-        {"id": "q3_c", "text": "Customer chatbots and email marketing automation", "textHtml": "<p>Customer chatbots and email marketing automation</p>", "isCorrect": false},
-        {"id": "q3_d", "text": "Cash flow forecasting and tax compliance tools", "textHtml": "<p>Cash flow forecasting and tax compliance tools</p>", "isCorrect": false}
+        {"id": "q3_a", "text": "Social media scheduling and image generation", "textHtml": "<p>Social media scheduling and image generation</p>", "correct": false},
+        {"id": "q3_b", "text": "Meeting transcription, scheduling automation, receipt processing, and workflow automation", "textHtml": "<p>Meeting transcription, scheduling automation, receipt processing, and workflow automation</p>", "correct": true},
+        {"id": "q3_c", "text": "Customer chatbots and email marketing automation", "textHtml": "<p>Customer chatbots and email marketing automation</p>", "correct": false},
+        {"id": "q3_d", "text": "Cash flow forecasting and tax compliance tools", "textHtml": "<p>Cash flow forecasting and tax compliance tools</p>", "correct": false}
       ],
       "feedback": "The case study showed that the professional services firm achieved 25+ hours weekly savings through meeting transcription (eliminating manual note-taking), scheduling automation (eliminating back-and-forth emails), receipt processing (reducing data entry), and workflow automation between systems.",
       "feedbackHtml": "<p>The case study showed that the professional services firm achieved 25+ hours weekly savings through meeting transcription (eliminating manual note-taking), scheduling automation (eliminating back-and-forth emails), receipt processing (reducing data entry), and workflow automation between systems.</p>"
@@ -55,10 +55,10 @@
       "question": "Which AI feature in Xero helps predict when your business might face cash shortfalls?",
       "questionHtml": "<p>Which AI feature in Xero helps predict when your business might face cash shortfalls?</p>",
       "answers": [
-        {"id": "q4_a", "text": "Automated bank reconciliation", "textHtml": "<p>Automated bank reconciliation</p>", "isCorrect": false},
-        {"id": "q4_b", "text": "Invoice coding suggestions", "textHtml": "<p>Invoice coding suggestions</p>", "isCorrect": false},
-        {"id": "q4_c", "text": "Short-term cash flow forecasting", "textHtml": "<p>Short-term cash flow forecasting</p>", "isCorrect": true},
-        {"id": "q4_d", "text": "Smart Capture via Hubdoc", "textHtml": "<p>Smart Capture via Hubdoc</p>", "isCorrect": false}
+        {"id": "q4_a", "text": "Automated bank reconciliation", "textHtml": "<p>Automated bank reconciliation</p>", "correct": false},
+        {"id": "q4_b", "text": "Invoice coding suggestions", "textHtml": "<p>Invoice coding suggestions</p>", "correct": false},
+        {"id": "q4_c", "text": "Short-term cash flow forecasting", "textHtml": "<p>Short-term cash flow forecasting</p>", "correct": true},
+        {"id": "q4_d", "text": "Smart Capture via Hubdoc", "textHtml": "<p>Smart Capture via Hubdoc</p>", "correct": false}
       ],
       "feedback": "Xero's short-term cash flow forecasting feature predicts your future cash position based on scheduled bills and invoices, historical payment patterns, and recurring transactions. This helps identify potential cash shortfalls before they occur, giving you time to arrange financing or adjust plans.",
       "feedbackHtml": "<p>Xero's short-term cash flow forecasting feature predicts your future cash position based on scheduled bills and invoices, historical payment patterns, and recurring transactions. This helps identify potential cash shortfalls before they occur, giving you time to arrange financing or adjust plans.</p>"
@@ -70,10 +70,10 @@
       "question": "For a hospitality business in Queenstown, which AI application would be MOST valuable given NZ's seasonal tourism patterns?",
       "questionHtml": "<p>For a hospitality business in Queenstown, which AI application would be MOST valuable given NZ's seasonal tourism patterns?</p>",
       "answers": [
-        {"id": "q5_a", "text": "AI-powered social media content generation", "textHtml": "<p>AI-powered social media content generation</p>", "isCorrect": false},
-        {"id": "q5_b", "text": "Demand forecasting for staff rostering and inventory", "textHtml": "<p>Demand forecasting for staff rostering and inventory</p>", "isCorrect": true},
-        {"id": "q5_c", "text": "Automated email marketing sequences", "textHtml": "<p>Automated email marketing sequences</p>", "isCorrect": false},
-        {"id": "q5_d", "text": "AI chatbots for after-hours enquiries", "textHtml": "<p>AI chatbots for after-hours enquiries</p>", "isCorrect": false}
+        {"id": "q5_a", "text": "AI-powered social media content generation", "textHtml": "<p>AI-powered social media content generation</p>", "correct": false},
+        {"id": "q5_b", "text": "Demand forecasting for staff rostering and inventory", "textHtml": "<p>Demand forecasting for staff rostering and inventory</p>", "correct": true},
+        {"id": "q5_c", "text": "Automated email marketing sequences", "textHtml": "<p>Automated email marketing sequences</p>", "correct": false},
+        {"id": "q5_d", "text": "AI chatbots for after-hours enquiries", "textHtml": "<p>AI chatbots for after-hours enquiries</p>", "correct": false}
       ],
       "feedback": "For Queenstown hospitality with dramatic seasonal variations (peak summer vs. winter), demand forecasting is most valuable. Accurate predictions based on historical patterns, weather, events, and bookings help optimise staff rostering (avoiding over/understaffing) and reduce food waste through better inventory management.",
       "feedbackHtml": "<p>For Queenstown hospitality with dramatic seasonal variations (peak summer vs. winter), demand forecasting is most valuable. Accurate predictions based on historical patterns, weather, events, and bookings help optimise staff rostering (avoiding over/understaffing) and reduce food waste through better inventory management.</p>"
@@ -85,10 +85,10 @@
       "question": "What should SMEs do BEFORE automating a business process with AI?",
       "questionHtml": "<p>What should SMEs do BEFORE automating a business process with AI?</p>",
       "answers": [
-        {"id": "q6_a", "text": "Purchase the most advanced AI tools available", "textHtml": "<p>Purchase the most advanced AI tools available</p>", "isCorrect": false},
-        {"id": "q6_b", "text": "Hire a dedicated AI specialist", "textHtml": "<p>Hire a dedicated AI specialist</p>", "isCorrect": false},
-        {"id": "q6_c", "text": "Fix the process first—automating a broken process just produces bad results faster", "textHtml": "<p>Fix the process first—automating a broken process just produces bad results faster</p>", "isCorrect": true},
-        {"id": "q6_d", "text": "Train all staff on AI fundamentals", "textHtml": "<p>Train all staff on AI fundamentals</p>", "isCorrect": false}
+        {"id": "q6_a", "text": "Purchase the most advanced AI tools available", "textHtml": "<p>Purchase the most advanced AI tools available</p>", "correct": false},
+        {"id": "q6_b", "text": "Hire a dedicated AI specialist", "textHtml": "<p>Hire a dedicated AI specialist</p>", "correct": false},
+        {"id": "q6_c", "text": "Fix the process first—automating a broken process just produces bad results faster", "textHtml": "<p>Fix the process first—automating a broken process just produces bad results faster</p>", "correct": true},
+        {"id": "q6_d", "text": "Train all staff on AI fundamentals", "textHtml": "<p>Train all staff on AI fundamentals</p>", "correct": false}
       ],
       "feedback": "Before automating any process, you should fix it first. AI makes processes faster, not better. If a process is broken or inefficient, automating it simply produces bad results more quickly. Understanding and improving the underlying process before applying AI ensures you get meaningful benefits.",
       "feedbackHtml": "<p>Before automating any process, you should fix it first. AI makes processes faster, not better. If a process is broken or inefficient, automating it simply produces bad results more quickly. Understanding and improving the underlying process before applying AI ensures you get meaningful benefits.</p>"
@@ -100,10 +100,10 @@
       "question": "Which of the following are ways AI helps trades businesses like plumbers or electricians? (Select all that apply)",
       "questionHtml": "<p>Which of the following are ways AI helps trades businesses like plumbers or electricians? (Select all that apply)</p>",
       "answers": [
-        {"id": "q7_a", "text": "Route optimisation to reduce travel time between jobs", "textHtml": "<p>Route optimisation to reduce travel time between jobs</p>", "isCorrect": true},
-        {"id": "q7_b", "text": "More accurate quotes by learning from historical job data", "textHtml": "<p>More accurate quotes by learning from historical job data</p>", "isCorrect": true},
-        {"id": "q7_c", "text": "Performing the actual plumbing or electrical work", "textHtml": "<p>Performing the actual plumbing or electrical work</p>", "isCorrect": false},
-        {"id": "q7_d", "text": "Matching staff skills to job requirements for scheduling", "textHtml": "<p>Matching staff skills to job requirements for scheduling</p>", "isCorrect": true}
+        {"id": "q7_a", "text": "Route optimisation to reduce travel time between jobs", "textHtml": "<p>Route optimisation to reduce travel time between jobs</p>", "correct": true},
+        {"id": "q7_b", "text": "More accurate quotes by learning from historical job data", "textHtml": "<p>More accurate quotes by learning from historical job data</p>", "correct": true},
+        {"id": "q7_c", "text": "Performing the actual plumbing or electrical work", "textHtml": "<p>Performing the actual plumbing or electrical work</p>", "correct": false},
+        {"id": "q7_d", "text": "Matching staff skills to job requirements for scheduling", "textHtml": "<p>Matching staff skills to job requirements for scheduling</p>", "correct": true}
       ],
       "feedback": "AI helps trades businesses with route optimisation (saving 30-45 minutes daily for a business running 6 jobs), accurate quoting (learning from historical data to protect margins), and intelligent scheduling (matching skills to job requirements). AI cannot perform physical trade work itself.",
       "feedbackHtml": "<p>AI helps trades businesses with route optimisation (saving 30-45 minutes daily for a business running 6 jobs), accurate quoting (learning from historical data to protect margins), and intelligent scheduling (matching skills to job requirements). AI cannot perform physical trade work itself.</p>"
@@ -115,10 +115,10 @@
       "question": "What is Hnry and how does it help New Zealand sole traders?",
       "questionHtml": "<p>What is Hnry and how does it help New Zealand sole traders?</p>",
       "answers": [
-        {"id": "q8_a", "text": "A chatbot platform for customer service automation", "textHtml": "<p>A chatbot platform for customer service automation</p>", "isCorrect": false},
-        {"id": "q8_b", "text": "A NZ company that uses AI to automatically calculate and pay taxes for contractors", "textHtml": "<p>A NZ company that uses AI to automatically calculate and pay taxes for contractors</p>", "isCorrect": true},
-        {"id": "q8_c", "text": "An AI tool for generating marketing content", "textHtml": "<p>An AI tool for generating marketing content</p>", "isCorrect": false},
-        {"id": "q8_d", "text": "A scheduling platform for trades businesses", "textHtml": "<p>A scheduling platform for trades businesses</p>", "isCorrect": false}
+        {"id": "q8_a", "text": "A chatbot platform for customer service automation", "textHtml": "<p>A chatbot platform for customer service automation</p>", "correct": false},
+        {"id": "q8_b", "text": "A NZ company that uses AI to automatically calculate and pay taxes for contractors", "textHtml": "<p>A NZ company that uses AI to automatically calculate and pay taxes for contractors</p>", "correct": true},
+        {"id": "q8_c", "text": "An AI tool for generating marketing content", "textHtml": "<p>An AI tool for generating marketing content</p>", "correct": false},
+        {"id": "q8_d", "text": "A scheduling platform for trades businesses", "textHtml": "<p>A scheduling platform for trades businesses</p>", "correct": false}
       ],
       "feedback": "Hnry is a Wellington-based NZ company that uses AI to automate tax calculations and payments for contractors and freelancers. It determines appropriate provisional tax and ACC levies, manages GST obligations, and tracks expenses and deductions—eliminating much of the tax complexity that burdens independent workers.",
       "feedbackHtml": "<p>Hnry is a Wellington-based NZ company that uses AI to automate tax calculations and payments for contractors and freelancers. It determines appropriate provisional tax and ACC levies, manages GST obligations, and tracks expenses and deductions—eliminating much of the tax complexity that burdens independent workers.</p>"
@@ -130,10 +130,10 @@
       "question": "Which statement about AI in healthcare SMEs is correct?",
       "questionHtml": "<p>Which statement about AI in healthcare SMEs is correct?</p>",
       "answers": [
-        {"id": "q9_a", "text": "AI can fully replace clinical judgment for diagnosis", "textHtml": "<p>AI can fully replace clinical judgment for diagnosis</p>", "isCorrect": false},
-        {"id": "q9_b", "text": "AI transcription and note-taking can save practitioners 30+ minutes daily", "textHtml": "<p>AI transcription and note-taking can save practitioners 30+ minutes daily</p>", "isCorrect": true},
-        {"id": "q9_c", "text": "Healthcare AI doesn't need to comply with privacy regulations", "textHtml": "<p>Healthcare AI doesn't need to comply with privacy regulations</p>", "isCorrect": false},
-        {"id": "q9_d", "text": "AI is not relevant for small healthcare practices", "textHtml": "<p>AI is not relevant for small healthcare practices</p>", "isCorrect": false}
+        {"id": "q9_a", "text": "AI can fully replace clinical judgment for diagnosis", "textHtml": "<p>AI can fully replace clinical judgment for diagnosis</p>", "correct": false},
+        {"id": "q9_b", "text": "AI transcription and note-taking can save practitioners 30+ minutes daily", "textHtml": "<p>AI transcription and note-taking can save practitioners 30+ minutes daily</p>", "correct": true},
+        {"id": "q9_c", "text": "Healthcare AI doesn't need to comply with privacy regulations", "textHtml": "<p>Healthcare AI doesn't need to comply with privacy regulations</p>", "correct": false},
+        {"id": "q9_d", "text": "AI is not relevant for small healthcare practices", "textHtml": "<p>AI is not relevant for small healthcare practices</p>", "correct": false}
       ],
       "feedback": "AI transcription and documentation tools are reported to save healthcare practitioners 30+ minutes daily. However, AI assists but doesn't replace professional clinical judgment, and all healthcare AI must comply with the Privacy Act and health information standards. AI offers valuable applications for practices of all sizes.",
       "feedbackHtml": "<p>AI transcription and documentation tools are reported to save healthcare practitioners 30+ minutes daily. However, AI assists but doesn't replace professional clinical judgment, and all healthcare AI must comply with the Privacy Act and health information standards. AI offers valuable applications for practices of all sizes.</p>"
@@ -145,10 +145,10 @@
       "question": "According to the lesson, what is a key limitation of AI financial forecasting?",
       "questionHtml": "<p>According to the lesson, what is a key limitation of AI financial forecasting?</p>",
       "answers": [
-        {"id": "q10_a", "text": "AI forecasting is too expensive for SMEs", "textHtml": "<p>AI forecasting is too expensive for SMEs</p>", "isCorrect": false},
-        {"id": "q10_b", "text": "AI learns from historical patterns and may not account for future changes you haven't made yet", "textHtml": "<p>AI learns from historical patterns and may not account for future changes you haven't made yet</p>", "isCorrect": true},
-        {"id": "q10_c", "text": "AI cannot integrate with NZ accounting platforms", "textHtml": "<p>AI cannot integrate with NZ accounting platforms</p>", "isCorrect": false},
-        {"id": "q10_d", "text": "AI forecasting is only accurate for large businesses", "textHtml": "<p>AI forecasting is only accurate for large businesses</p>", "isCorrect": false}
+        {"id": "q10_a", "text": "AI forecasting is too expensive for SMEs", "textHtml": "<p>AI forecasting is too expensive for SMEs</p>", "correct": false},
+        {"id": "q10_b", "text": "AI learns from historical patterns and may not account for future changes you haven't made yet", "textHtml": "<p>AI learns from historical patterns and may not account for future changes you haven't made yet</p>", "correct": true},
+        {"id": "q10_c", "text": "AI cannot integrate with NZ accounting platforms", "textHtml": "<p>AI cannot integrate with NZ accounting platforms</p>", "correct": false},
+        {"id": "q10_d", "text": "AI forecasting is only accurate for large businesses", "textHtml": "<p>AI forecasting is only accurate for large businesses</p>", "correct": false}
       ],
       "feedback": "A key limitation of AI financial forecasting is that it learns from historical patterns. It doesn't know about deals in your pipeline, can't account for decisions you haven't made yet, and may miss context that affects forecasts. If your business is changing significantly, historical patterns may not predict future performance well.",
       "feedbackHtml": "<p>A key limitation of AI financial forecasting is that it learns from historical patterns. It doesn't know about deals in your pipeline, can't account for decisions you haven't made yet, and may miss context that affects forecasts. If your business is changing significantly, historical patterns may not predict future performance well.</p>"

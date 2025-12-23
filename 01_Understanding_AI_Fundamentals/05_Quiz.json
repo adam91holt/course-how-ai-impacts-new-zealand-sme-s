@@ -10,10 +10,10 @@
       "question": "What is the key difference between traditional automation and machine learning?",
       "questionHtml": "<p>What is the key difference between traditional automation and machine learning?</p>",
       "answers": [
-        {"id": "q1_a", "text": "Machine learning systems learn from data rather than following explicit pre-programmed rules", "textHtml": "<p>Machine learning systems learn from data rather than following explicit pre-programmed rules</p>", "isCorrect": true},
-        {"id": "q1_b", "text": "Traditional automation is faster than machine learning", "textHtml": "<p>Traditional automation is faster than machine learning</p>", "isCorrect": false},
-        {"id": "q1_c", "text": "Machine learning requires more expensive hardware", "textHtml": "<p>Machine learning requires more expensive hardware</p>", "isCorrect": false},
-        {"id": "q1_d", "text": "There is no significant difference between them", "textHtml": "<p>There is no significant difference between them</p>", "isCorrect": false}
+        {"id": "q1_a", "text": "Machine learning systems learn from data rather than following explicit pre-programmed rules", "textHtml": "<p>Machine learning systems learn from data rather than following explicit pre-programmed rules</p>", "correct": true},
+        {"id": "q1_b", "text": "Traditional automation is faster than machine learning", "textHtml": "<p>Traditional automation is faster than machine learning</p>", "correct": false},
+        {"id": "q1_c", "text": "Machine learning requires more expensive hardware", "textHtml": "<p>Machine learning requires more expensive hardware</p>", "correct": false},
+        {"id": "q1_d", "text": "There is no significant difference between them", "textHtml": "<p>There is no significant difference between them</p>", "correct": false}
       ],
       "feedback": "Machine learning is distinct because it learns patterns from data rather than requiring explicit programming for every rule. Traditional automation follows fixed 'if X then Y' rules, while ML systems improve their performance by analysing examples.",
       "feedbackHtml": "<p>Machine learning is distinct because it learns patterns from data rather than requiring explicit programming for every rule. Traditional automation follows fixed 'if X then Y' rules, while ML systems improve their performance by analysing examples.</p>"
@@ -25,10 +25,10 @@
       "question": "Which type of AI technology would be most suitable for a retail business wanting to automatically extract data from supplier invoices?",
       "questionHtml": "<p>Which type of AI technology would be most suitable for a retail business wanting to automatically extract data from supplier invoices?</p>",
       "answers": [
-        {"id": "q2_a", "text": "Generative AI for creating new content", "textHtml": "<p>Generative AI for creating new content</p>", "isCorrect": false},
-        {"id": "q2_b", "text": "Computer Vision with OCR (Optical Character Recognition)", "textHtml": "<p>Computer Vision with OCR (Optical Character Recognition)</p>", "isCorrect": true},
-        {"id": "q2_c", "text": "Natural Language Processing for chatbots", "textHtml": "<p>Natural Language Processing for chatbots</p>", "isCorrect": false},
-        {"id": "q2_d", "text": "Predictive analytics for forecasting", "textHtml": "<p>Predictive analytics for forecasting</p>", "isCorrect": false}
+        {"id": "q2_a", "text": "Generative AI for creating new content", "textHtml": "<p>Generative AI for creating new content</p>", "correct": false},
+        {"id": "q2_b", "text": "Computer Vision with OCR (Optical Character Recognition)", "textHtml": "<p>Computer Vision with OCR (Optical Character Recognition)</p>", "correct": true},
+        {"id": "q2_c", "text": "Natural Language Processing for chatbots", "textHtml": "<p>Natural Language Processing for chatbots</p>", "correct": false},
+        {"id": "q2_d", "text": "Predictive analytics for forecasting", "textHtml": "<p>Predictive analytics for forecasting</p>", "correct": false}
       ],
       "feedback": "Computer Vision combined with OCR (Optical Character Recognition) is specifically designed to interpret visual information from documents like invoices. It can identify and extract text, numbers, and structured data from scanned or photographed documents, automating data entry tasks.",
       "feedbackHtml": "<p>Computer Vision combined with OCR (Optical Character Recognition) is specifically designed to interpret visual information from documents like invoices. It can identify and extract text, numbers, and structured data from scanned or photographed documents, automating data entry tasks.</p>"
@@ -40,10 +40,10 @@
       "question": "Which of the following are genuine challenges for AI adoption specific to New Zealand? (Select all that apply)",
       "questionHtml": "<p>Which of the following are genuine challenges for AI adoption specific to New Zealand? (Select all that apply)</p>",
       "answers": [
-        {"id": "q3_a", "text": "Small domestic market limiting locally-developed solutions", "textHtml": "<p>Small domestic market limiting locally-developed solutions</p>", "isCorrect": true},
-        {"id": "q3_b", "text": "Competition for AI talent with higher-paying overseas markets", "textHtml": "<p>Competition for AI talent with higher-paying overseas markets</p>", "isCorrect": true},
-        {"id": "q3_c", "text": "Complete lack of government support programmes", "textHtml": "<p>Complete lack of government support programmes</p>", "isCorrect": false},
-        {"id": "q3_d", "text": "Rural connectivity gaps affecting cloud-based AI services", "textHtml": "<p>Rural connectivity gaps affecting cloud-based AI services</p>", "isCorrect": true}
+        {"id": "q3_a", "text": "Small domestic market limiting locally-developed solutions", "textHtml": "<p>Small domestic market limiting locally-developed solutions</p>", "correct": true},
+        {"id": "q3_b", "text": "Competition for AI talent with higher-paying overseas markets", "textHtml": "<p>Competition for AI talent with higher-paying overseas markets</p>", "correct": true},
+        {"id": "q3_c", "text": "Complete lack of government support programmes", "textHtml": "<p>Complete lack of government support programmes</p>", "correct": false},
+        {"id": "q3_d", "text": "Rural connectivity gaps affecting cloud-based AI services", "textHtml": "<p>Rural connectivity gaps affecting cloud-based AI services</p>", "correct": true}
       ],
       "feedback": "New Zealand faces several AI adoption challenges including our small market (5 million population), talent competition with overseas markets offering higher salaries, and infrastructure gaps in rural areas. However, there ARE government support programmes through Digital Boost, Callaghan Innovation, and NZTE.",
       "feedbackHtml": "<p>New Zealand faces several AI adoption challenges including our small market (5 million population), talent competition with overseas markets offering higher salaries, and infrastructure gaps in rural areas. However, there ARE government support programmes through Digital Boost, Callaghan Innovation, and NZTE.</p>"
@@ -55,10 +55,10 @@
       "question": "What is 'hallucination' in the context of AI?",
       "questionHtml": "<p>What is 'hallucination' in the context of AI?</p>",
       "answers": [
-        {"id": "q4_a", "text": "When AI systems overheat and malfunction", "textHtml": "<p>When AI systems overheat and malfunction</p>", "isCorrect": false},
-        {"id": "q4_b", "text": "When AI confidently generates false or made-up information", "textHtml": "<p>When AI confidently generates false or made-up information</p>", "isCorrect": true},
-        {"id": "q4_c", "text": "When users imagine AI capabilities that don't exist", "textHtml": "<p>When users imagine AI capabilities that don't exist</p>", "isCorrect": false},
-        {"id": "q4_d", "text": "When AI creates visual images from text", "textHtml": "<p>When AI creates visual images from text</p>", "isCorrect": false}
+        {"id": "q4_a", "text": "When AI systems overheat and malfunction", "textHtml": "<p>When AI systems overheat and malfunction</p>", "correct": false},
+        {"id": "q4_b", "text": "When AI confidently generates false or made-up information", "textHtml": "<p>When AI confidently generates false or made-up information</p>", "correct": true},
+        {"id": "q4_c", "text": "When users imagine AI capabilities that don't exist", "textHtml": "<p>When users imagine AI capabilities that don't exist</p>", "correct": false},
+        {"id": "q4_d", "text": "When AI creates visual images from text", "textHtml": "<p>When AI creates visual images from text</p>", "correct": false}
       ],
       "feedback": "AI hallucination refers to when generative AI systems confidently produce false information as if it were true. This can include citing non-existent sources, inventing statistics, or stating incorrect facts. This is why human verification of AI-generated content is essential, especially for important business decisions.",
       "feedbackHtml": "<p>AI hallucination refers to when generative AI systems confidently produce false information as if it were true. This can include citing non-existent sources, inventing statistics, or stating incorrect facts. This is why human verification of AI-generated content is essential, especially for important business decisions.</p>"
@@ -70,10 +70,10 @@
       "question": "According to the lesson, what is the best approach to AI adoption for SMEs?",
       "questionHtml": "<p>According to the lesson, what is the best approach to AI adoption for SMEs?</p>",
       "answers": [
-        {"id": "q5_a", "text": "Implement as many AI tools as possible as quickly as possible", "textHtml": "<p>Implement as many AI tools as possible as quickly as possible</p>", "isCorrect": false},
-        {"id": "q5_b", "text": "Wait until AI technology is fully mature before adopting", "textHtml": "<p>Wait until AI technology is fully mature before adopting</p>", "isCorrect": false},
-        {"id": "q5_c", "text": "Start with specific business problems and adopt AI thoughtfully and incrementally", "textHtml": "<p>Start with specific business problems and adopt AI thoughtfully and incrementally</p>", "isCorrect": true},
-        {"id": "q5_d", "text": "Only adopt AI if competitors are already using it", "textHtml": "<p>Only adopt AI if competitors are already using it</p>", "isCorrect": false}
+        {"id": "q5_a", "text": "Implement as many AI tools as possible as quickly as possible", "textHtml": "<p>Implement as many AI tools as possible as quickly as possible</p>", "correct": false},
+        {"id": "q5_b", "text": "Wait until AI technology is fully mature before adopting", "textHtml": "<p>Wait until AI technology is fully mature before adopting</p>", "correct": false},
+        {"id": "q5_c", "text": "Start with specific business problems and adopt AI thoughtfully and incrementally", "textHtml": "<p>Start with specific business problems and adopt AI thoughtfully and incrementally</p>", "correct": true},
+        {"id": "q5_d", "text": "Only adopt AI if competitors are already using it", "textHtml": "<p>Only adopt AI if competitors are already using it</p>", "correct": false}
       ],
       "feedback": "The most effective approach is thoughtful, measured adoption starting with specific business problems. This means identifying where AI can add value, starting with one or two high-impact applications, learning from initial implementations, and building capability gradually rather than rushing to implement everything at once.",
       "feedbackHtml": "<p>The most effective approach is thoughtful, measured adoption starting with specific business problems. This means identifying where AI can add value, starting with one or two high-impact applications, learning from initial implementations, and building capability gradually rather than rushing to implement everything at once.</p>"
@@ -85,10 +85,10 @@
       "question": "Which New Zealand-based company develops AI-powered solar collars for dairy cattle?",
       "questionHtml": "<p>Which New Zealand-based company develops AI-powered solar collars for dairy cattle?</p>",
       "answers": [
-        {"id": "q6_a", "text": "Soul Machines", "textHtml": "<p>Soul Machines</p>", "isCorrect": false},
-        {"id": "q6_b", "text": "Xero", "textHtml": "<p>Xero</p>", "isCorrect": false},
-        {"id": "q6_c", "text": "Halter", "textHtml": "<p>Halter</p>", "isCorrect": true},
-        {"id": "q6_d", "text": "Imagr", "textHtml": "<p>Imagr</p>", "isCorrect": false}
+        {"id": "q6_a", "text": "Soul Machines", "textHtml": "<p>Soul Machines</p>", "correct": false},
+        {"id": "q6_b", "text": "Xero", "textHtml": "<p>Xero</p>", "correct": false},
+        {"id": "q6_c", "text": "Halter", "textHtml": "<p>Halter</p>", "correct": true},
+        {"id": "q6_d", "text": "Imagr", "textHtml": "<p>Imagr</p>", "correct": false}
       ],
       "feedback": "Halter is a New Zealand company that produces AI-powered solar collars for dairy cattle. These enable virtual fencing (moving cattle without physical fences) and animal health monitoring, representing innovative NZ application of AI to our agricultural sector.",
       "feedbackHtml": "<p>Halter is a New Zealand company that produces AI-powered solar collars for dairy cattle. These enable virtual fencing (moving cattle without physical fences) and animal health monitoring, representing innovative NZ application of AI to our agricultural sector.</p>"
@@ -100,10 +100,10 @@
       "question": "Which of the following are considered strengths for New Zealand in AI adoption? (Select all that apply)",
       "questionHtml": "<p>Which of the following are considered strengths for New Zealand in AI adoption? (Select all that apply)</p>",
       "answers": [
-        {"id": "q7_a", "text": "High digital literacy among the population", "textHtml": "<p>High digital literacy among the population</p>", "isCorrect": true},
-        {"id": "q7_b", "text": "Strong university research programmes", "textHtml": "<p>Strong university research programmes</p>", "isCorrect": true},
-        {"id": "q7_c", "text": "Large domestic market for AI products", "textHtml": "<p>Large domestic market for AI products</p>", "isCorrect": false},
-        {"id": "q7_d", "text": "Business-friendly regulatory environment", "textHtml": "<p>Business-friendly regulatory environment</p>", "isCorrect": true}
+        {"id": "q7_a", "text": "High digital literacy among the population", "textHtml": "<p>High digital literacy among the population</p>", "correct": true},
+        {"id": "q7_b", "text": "Strong university research programmes", "textHtml": "<p>Strong university research programmes</p>", "correct": true},
+        {"id": "q7_c", "text": "Large domestic market for AI products", "textHtml": "<p>Large domestic market for AI products</p>", "correct": false},
+        {"id": "q7_d", "text": "Business-friendly regulatory environment", "textHtml": "<p>Business-friendly regulatory environment</p>", "correct": true}
       ],
       "feedback": "New Zealand's AI strengths include high digital literacy (our population is comfortable with technology), strong research bases at universities like Auckland, Canterbury, Victoria, and Otago, and a business-friendly regulatory environment. Our small domestic market of 5 million is actually a challenge, not a strength.",
       "feedbackHtml": "<p>New Zealand's AI strengths include high digital literacy (our population is comfortable with technology), strong research bases at universities like Auckland, Canterbury, Victoria, and Otago, and a business-friendly regulatory environment. Our small domestic market of 5 million is actually a challenge, not a strength.</p>"
@@ -115,10 +115,10 @@
       "question": "What does NLP stand for in the context of AI?",
       "questionHtml": "<p>What does NLP stand for in the context of AI?</p>",
       "answers": [
-        {"id": "q8_a", "text": "New Learning Protocol", "textHtml": "<p>New Learning Protocol</p>", "isCorrect": false},
-        {"id": "q8_b", "text": "Natural Language Processing", "textHtml": "<p>Natural Language Processing</p>", "isCorrect": true},
-        {"id": "q8_c", "text": "Neural Logic Programming", "textHtml": "<p>Neural Logic Programming</p>", "isCorrect": false},
-        {"id": "q8_d", "text": "Network Layer Processing", "textHtml": "<p>Network Layer Processing</p>", "isCorrect": false}
+        {"id": "q8_a", "text": "New Learning Protocol", "textHtml": "<p>New Learning Protocol</p>", "correct": false},
+        {"id": "q8_b", "text": "Natural Language Processing", "textHtml": "<p>Natural Language Processing</p>", "correct": true},
+        {"id": "q8_c", "text": "Neural Logic Programming", "textHtml": "<p>Neural Logic Programming</p>", "correct": false},
+        {"id": "q8_d", "text": "Network Layer Processing", "textHtml": "<p>Network Layer Processing</p>", "correct": false}
       ],
       "feedback": "NLP stands for Natural Language Processing - the AI technology that enables computers to understand, interpret, and respond to human language. NLP powers chatbots, voice assistants, translation tools, and sentiment analysis systems.",
       "feedbackHtml": "<p>NLP stands for Natural Language Processing - the AI technology that enables computers to understand, interpret, and respond to human language. NLP powers chatbots, voice assistants, translation tools, and sentiment analysis systems.</p>"

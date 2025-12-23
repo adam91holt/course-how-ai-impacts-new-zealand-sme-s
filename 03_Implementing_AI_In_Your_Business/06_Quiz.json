@@ -10,10 +10,10 @@
       "question": "According to the AI readiness framework, which dimension is often the most significant gap for NZ SMEs?",
       "questionHtml": "<p>According to the AI readiness framework, which dimension is often the most significant gap for NZ SMEs?</p>",
       "answers": [
-        {"id": "q1_a", "text": "Strategic clarity", "textHtml": "<p>Strategic clarity</p>", "isCorrect": false},
-        {"id": "q1_b", "text": "Data foundations", "textHtml": "<p>Data foundations</p>", "isCorrect": true},
-        {"id": "q1_c", "text": "Technology infrastructure", "textHtml": "<p>Technology infrastructure</p>", "isCorrect": false},
-        {"id": "q1_d", "text": "Financial resources", "textHtml": "<p>Financial resources</p>", "isCorrect": false}
+        {"id": "q1_a", "text": "Strategic clarity", "textHtml": "<p>Strategic clarity</p>", "correct": false},
+        {"id": "q1_b", "text": "Data foundations", "textHtml": "<p>Data foundations</p>", "correct": true},
+        {"id": "q1_c", "text": "Technology infrastructure", "textHtml": "<p>Technology infrastructure</p>", "correct": false},
+        {"id": "q1_d", "text": "Financial resources", "textHtml": "<p>Financial resources</p>", "correct": false}
       ],
       "feedback": "Data quality is often the most significant gap for NZ SMEs. Common issues include information scattered across spreadsheets, emails, and paper; inconsistent data entry practices; missing historical data; and poor integration between systems. Good data foundations are essential for AI tools to work effectively.",
       "feedbackHtml": "<p>Data quality is often the most significant gap for NZ SMEs. Common issues include information scattered across spreadsheets, emails, and paper; inconsistent data entry practices; missing historical data; and poor integration between systems. Good data foundations are essential for AI tools to work effectively.</p>"
@@ -25,10 +25,10 @@
       "question": "When evaluating AI tools, which criteria should SMEs consider? (Select all that apply)",
       "questionHtml": "<p>When evaluating AI tools, which criteria should SMEs consider? (Select all that apply)</p>",
       "answers": [
-        {"id": "q2_a", "text": "Problem-solution fit", "textHtml": "<p>Problem-solution fit</p>", "isCorrect": true},
-        {"id": "q2_b", "text": "Integration with existing systems like Xero", "textHtml": "<p>Integration with existing systems like Xero</p>", "isCorrect": true},
-        {"id": "q2_c", "text": "Number of AI features offered", "textHtml": "<p>Number of AI features offered</p>", "isCorrect": false},
-        {"id": "q2_d", "text": "Vendor viability and support availability", "textHtml": "<p>Vendor viability and support availability</p>", "isCorrect": true}
+        {"id": "q2_a", "text": "Problem-solution fit", "textHtml": "<p>Problem-solution fit</p>", "correct": true},
+        {"id": "q2_b", "text": "Integration with existing systems like Xero", "textHtml": "<p>Integration with existing systems like Xero</p>", "correct": true},
+        {"id": "q2_c", "text": "Number of AI features offered", "textHtml": "<p>Number of AI features offered</p>", "correct": false},
+        {"id": "q2_d", "text": "Vendor viability and support availability", "textHtml": "<p>Vendor viability and support availability</p>", "correct": true}
       ],
       "feedback": "The tool selection framework includes problem-solution fit, ease of use, integration capability, cost and value, security and privacy, vendor viability, and support. Number of features is NOT a recommended criterion—choosing tools for features you'll never use rather than ones that solve actual problems is listed as a common selection mistake.",
       "feedbackHtml": "<p>The tool selection framework includes problem-solution fit, ease of use, integration capability, cost and value, security and privacy, vendor viability, and support. Number of features is NOT a recommended criterion—choosing tools for features you'll never use rather than ones that solve actual problems is listed as a common selection mistake.</p>"
@@ -40,10 +40,10 @@
       "question": "What is a common reason technology implementations fail according to the change management lesson?",
       "questionHtml": "<p>What is a common reason technology implementations fail according to the change management lesson?</p>",
       "answers": [
-        {"id": "q3_a", "text": "The technology itself is poorly designed", "textHtml": "<p>The technology itself is poorly designed</p>", "isCorrect": false},
-        {"id": "q3_b", "text": "Human factors like resistance to change and inadequate training", "textHtml": "<p>Human factors like resistance to change and inadequate training</p>", "isCorrect": true},
-        {"id": "q3_c", "text": "Lack of budget for premium AI tools", "textHtml": "<p>Lack of budget for premium AI tools</p>", "isCorrect": false},
-        {"id": "q3_d", "text": "NZ's slow internet connectivity", "textHtml": "<p>NZ's slow internet connectivity</p>", "isCorrect": false}
+        {"id": "q3_a", "text": "The technology itself is poorly designed", "textHtml": "<p>The technology itself is poorly designed</p>", "correct": false},
+        {"id": "q3_b", "text": "Human factors like resistance to change and inadequate training", "textHtml": "<p>Human factors like resistance to change and inadequate training</p>", "correct": true},
+        {"id": "q3_c", "text": "Lack of budget for premium AI tools", "textHtml": "<p>Lack of budget for premium AI tools</p>", "correct": false},
+        {"id": "q3_d", "text": "NZ's slow internet connectivity", "textHtml": "<p>NZ's slow internet connectivity</p>", "correct": false}
       ],
       "feedback": "Research consistently shows that technology projects fail more often from human factors than technical ones. For AI specifically, this includes fear about job displacement, skill gaps and lack of confidence, habit disruption, and unclear benefits to staff. Even in small teams, resistance can sabotage implementation.",
       "feedbackHtml": "<p>Research consistently shows that technology projects fail more often from human factors than technical ones. For AI specifically, this includes fear about job displacement, skill gaps and lack of confidence, habit disruption, and unclear benefits to staff. Even in small teams, resistance can sabotage implementation.</p>"
@@ -55,10 +55,10 @@
       "question": "Under New Zealand's Privacy Act 2020, what must businesses do regarding automated decision-making?",
       "questionHtml": "<p>Under New Zealand's Privacy Act 2020, what must businesses do regarding automated decision-making?</p>",
       "answers": [
-        {"id": "q4_a", "text": "Never use AI for any decisions affecting individuals", "textHtml": "<p>Never use AI for any decisions affecting individuals</p>", "isCorrect": false},
-        {"id": "q4_b", "text": "Tell people when decisions are made by AI and allow human review of significant decisions", "textHtml": "<p>Tell people when decisions are made by AI and allow human review of significant decisions</p>", "isCorrect": true},
-        {"id": "q4_c", "text": "Register all AI systems with the Privacy Commissioner", "textHtml": "<p>Register all AI systems with the Privacy Commissioner</p>", "isCorrect": false},
-        {"id": "q4_d", "text": "Only use AI tools developed in New Zealand", "textHtml": "<p>Only use AI tools developed in New Zealand</p>", "isCorrect": false}
+        {"id": "q4_a", "text": "Never use AI for any decisions affecting individuals", "textHtml": "<p>Never use AI for any decisions affecting individuals</p>", "correct": false},
+        {"id": "q4_b", "text": "Tell people when decisions are made by AI and allow human review of significant decisions", "textHtml": "<p>Tell people when decisions are made by AI and allow human review of significant decisions</p>", "correct": true},
+        {"id": "q4_c", "text": "Register all AI systems with the Privacy Commissioner", "textHtml": "<p>Register all AI systems with the Privacy Commissioner</p>", "correct": false},
+        {"id": "q4_d", "text": "Only use AI tools developed in New Zealand", "textHtml": "<p>Only use AI tools developed in New Zealand</p>", "correct": false}
       ],
       "feedback": "The Privacy Act 2020 requires transparency about automated decisions affecting individuals. Businesses must tell people when decisions are made by AI, explain the general logic involved, and allow human review of significant automated decisions. The Act doesn't ban AI decision-making but requires appropriate safeguards.",
       "feedbackHtml": "<p>The Privacy Act 2020 requires transparency about automated decisions affecting individuals. Businesses must tell people when decisions are made by AI, explain the general logic involved, and allow human review of significant automated decisions. The Act doesn't ban AI decision-making but requires appropriate safeguards.</p>"
@@ -70,10 +70,10 @@
       "question": "What happened when Bay of Plenty Electrical Services initially implemented AI tools for quoting and scheduling?",
       "questionHtml": "<p>What happened when Bay of Plenty Electrical Services initially implemented AI tools for quoting and scheduling?</p>",
       "answers": [
-        {"id": "q5_a", "text": "The tools worked perfectly from day one with high adoption", "textHtml": "<p>The tools worked perfectly from day one with high adoption</p>", "isCorrect": false},
-        {"id": "q5_b", "text": "The tools were barely being used two months in due to staff resistance", "textHtml": "<p>The tools were barely being used two months in due to staff resistance</p>", "isCorrect": true},
-        {"id": "q5_c", "text": "The technology failed completely and had to be abandoned", "textHtml": "<p>The technology failed completely and had to be abandoned</p>", "isCorrect": false},
-        {"id": "q5_d", "text": "Staff immediately embraced the new AI capabilities", "textHtml": "<p>Staff immediately embraced the new AI capabilities</p>", "isCorrect": false}
+        {"id": "q5_a", "text": "The tools worked perfectly from day one with high adoption", "textHtml": "<p>The tools worked perfectly from day one with high adoption</p>", "correct": false},
+        {"id": "q5_b", "text": "The tools were barely being used two months in due to staff resistance", "textHtml": "<p>The tools were barely being used two months in due to staff resistance</p>", "correct": true},
+        {"id": "q5_c", "text": "The technology failed completely and had to be abandoned", "textHtml": "<p>The technology failed completely and had to be abandoned</p>", "correct": false},
+        {"id": "q5_d", "text": "Staff immediately embraced the new AI capabilities", "textHtml": "<p>Staff immediately embraced the new AI capabilities</p>", "correct": false}
       ],
       "feedback": "The case study showed that two months after implementation, the AI tools were barely being used. Experienced electricians were skeptical about 'computer quoting', admin staff worried about job loss, and the owner was frustrated. After a turnaround approach focusing on change management—listening to concerns, addressing job security, involving skeptics, and starting smaller—they achieved full team adoption after 6 months.",
       "feedbackHtml": "<p>The case study showed that two months after implementation, the AI tools were barely being used. Experienced electricians were skeptical about 'computer quoting', admin staff worried about job loss, and the owner was frustrated. After a turnaround approach focusing on change management—listening to concerns, addressing job security, involving skeptics, and starting smaller—they achieved full team adoption after 6 months.</p>"
@@ -85,10 +85,10 @@
       "question": "Which of the following are ethical principles for AI use mentioned in the course? (Select all that apply)",
       "questionHtml": "<p>Which of the following are ethical principles for AI use mentioned in the course? (Select all that apply)</p>",
       "answers": [
-        {"id": "q6_a", "text": "Transparency - being open about when and how you use AI", "textHtml": "<p>Transparency - being open about when and how you use AI</p>", "isCorrect": true},
-        {"id": "q6_b", "text": "Fairness - AI should not discriminate or produce unfair outcomes", "textHtml": "<p>Fairness - AI should not discriminate or produce unfair outcomes</p>", "isCorrect": true},
-        {"id": "q6_c", "text": "Maximisation - using AI in as many areas as possible", "textHtml": "<p>Maximisation - using AI in as many areas as possible</p>", "isCorrect": false},
-        {"id": "q6_d", "text": "Accountability - humans remain responsible for AI outcomes", "textHtml": "<p>Accountability - humans remain responsible for AI outcomes</p>", "isCorrect": true}
+        {"id": "q6_a", "text": "Transparency - being open about when and how you use AI", "textHtml": "<p>Transparency - being open about when and how you use AI</p>", "correct": true},
+        {"id": "q6_b", "text": "Fairness - AI should not discriminate or produce unfair outcomes", "textHtml": "<p>Fairness - AI should not discriminate or produce unfair outcomes</p>", "correct": true},
+        {"id": "q6_c", "text": "Maximisation - using AI in as many areas as possible", "textHtml": "<p>Maximisation - using AI in as many areas as possible</p>", "correct": false},
+        {"id": "q6_d", "text": "Accountability - humans remain responsible for AI outcomes", "textHtml": "<p>Accountability - humans remain responsible for AI outcomes</p>", "correct": true}
       ],
       "feedback": "The ethical principles for AI use covered in the course are: Transparency (being open about AI use), Fairness (avoiding discrimination), Accountability (humans responsible for outcomes), Privacy (protecting personal information), and Human Dignity (supporting human flourishing). Maximisation is NOT a principle—the course emphasises strategic, appropriate AI use, not using AI everywhere possible.",
       "feedbackHtml": "<p>The ethical principles for AI use covered in the course are: Transparency (being open about AI use), Fairness (avoiding discrimination), Accountability (humans responsible for outcomes), Privacy (protecting personal information), and Human Dignity (supporting human flourishing). Maximisation is NOT a principle—the course emphasises strategic, appropriate AI use, not using AI everywhere possible.</p>"
@@ -100,10 +100,10 @@
       "question": "What is 'demo seduction' in the context of AI tool selection?",
       "questionHtml": "<p>What is 'demo seduction' in the context of AI tool selection?</p>",
       "answers": [
-        {"id": "q7_a", "text": "Vendors refusing to provide product demonstrations", "textHtml": "<p>Vendors refusing to provide product demonstrations</p>", "isCorrect": false},
-        {"id": "q7_b", "text": "Being swayed by polished demonstrations rather than hands-on experience", "textHtml": "<p>Being swayed by polished demonstrations rather than hands-on experience</p>", "isCorrect": true},
-        {"id": "q7_c", "text": "A technique for negotiating better pricing", "textHtml": "<p>A technique for negotiating better pricing</p>", "isCorrect": false},
-        {"id": "q7_d", "text": "Using AI to create sales presentations", "textHtml": "<p>Using AI to create sales presentations</p>", "isCorrect": false}
+        {"id": "q7_a", "text": "Vendors refusing to provide product demonstrations", "textHtml": "<p>Vendors refusing to provide product demonstrations</p>", "correct": false},
+        {"id": "q7_b", "text": "Being swayed by polished demonstrations rather than hands-on experience", "textHtml": "<p>Being swayed by polished demonstrations rather than hands-on experience</p>", "correct": true},
+        {"id": "q7_c", "text": "A technique for negotiating better pricing", "textHtml": "<p>A technique for negotiating better pricing</p>", "correct": false},
+        {"id": "q7_d", "text": "Using AI to create sales presentations", "textHtml": "<p>Using AI to create sales presentations</p>", "correct": false}
       ],
       "feedback": "Demo seduction is a common selection mistake where businesses are swayed by polished vendor demonstrations rather than hands-on experience with the tool. Demos show best cases while trials reveal reality. The recommendation is to request hands-on trials and have non-technical staff test the interface before making decisions.",
       "feedbackHtml": "<p>Demo seduction is a common selection mistake where businesses are swayed by polished vendor demonstrations rather than hands-on experience with the tool. Demos show best cases while trials reveal reality. The recommendation is to request hands-on trials and have non-technical staff test the interface before making decisions.</p>"
@@ -115,10 +115,10 @@
       "question": "According to the future-proofing lesson, what creates sustainable AI competitive advantage for SMEs?",
       "questionHtml": "<p>According to the future-proofing lesson, what creates sustainable AI competitive advantage for SMEs?</p>",
       "answers": [
-        {"id": "q8_a", "text": "Adopting AI tools before competitors do", "textHtml": "<p>Adopting AI tools before competitors do</p>", "isCorrect": false},
-        {"id": "q8_b", "text": "Combining AI efficiency with human expertise and judgment", "textHtml": "<p>Combining AI efficiency with human expertise and judgment</p>", "isCorrect": true},
-        {"id": "q8_c", "text": "Using the most expensive AI tools available", "textHtml": "<p>Using the most expensive AI tools available</p>", "isCorrect": false},
-        {"id": "q8_d", "text": "Replacing as many staff as possible with AI", "textHtml": "<p>Replacing as many staff as possible with AI</p>", "isCorrect": false}
+        {"id": "q8_a", "text": "Adopting AI tools before competitors do", "textHtml": "<p>Adopting AI tools before competitors do</p>", "correct": false},
+        {"id": "q8_b", "text": "Combining AI efficiency with human expertise and judgment", "textHtml": "<p>Combining AI efficiency with human expertise and judgment</p>", "correct": true},
+        {"id": "q8_c", "text": "Using the most expensive AI tools available", "textHtml": "<p>Using the most expensive AI tools available</p>", "correct": false},
+        {"id": "q8_d", "text": "Replacing as many staff as possible with AI", "textHtml": "<p>Replacing as many staff as possible with AI</p>", "correct": false}
       ],
       "feedback": "Sustainable AI advantage comes from combining AI with human expertise, not replacing humans. AI commoditises routine tasks but amplifies human expertise. The combination of AI efficiency and human insight—judgment, creativity, and relationships—creates lasting value that competitors can't easily replicate.",
       "feedbackHtml": "<p>Sustainable AI advantage comes from combining AI with human expertise, not replacing humans. AI commoditises routine tasks but amplifies human expertise. The combination of AI efficiency and human insight—judgment, creativity, and relationships—creates lasting value that competitors can't easily replicate.</p>"
@@ -130,10 +130,10 @@
       "question": "What are 'AI agents' as described in emerging AI trends?",
       "questionHtml": "<p>What are 'AI agents' as described in emerging AI trends?</p>",
       "answers": [
-        {"id": "q9_a", "text": "Sales representatives who specialise in selling AI products", "textHtml": "<p>Sales representatives who specialise in selling AI products</p>", "isCorrect": false},
-        {"id": "q9_b", "text": "AI systems that can complete multi-step tasks autonomously, not just answer questions", "textHtml": "<p>AI systems that can complete multi-step tasks autonomously, not just answer questions</p>", "isCorrect": true},
-        {"id": "q9_c", "text": "Consultants who help businesses implement AI", "textHtml": "<p>Consultants who help businesses implement AI</p>", "isCorrect": false},
-        {"id": "q9_d", "text": "AI tools designed specifically for government agencies", "textHtml": "<p>AI tools designed specifically for government agencies</p>", "isCorrect": false}
+        {"id": "q9_a", "text": "Sales representatives who specialise in selling AI products", "textHtml": "<p>Sales representatives who specialise in selling AI products</p>", "correct": false},
+        {"id": "q9_b", "text": "AI systems that can complete multi-step tasks autonomously, not just answer questions", "textHtml": "<p>AI systems that can complete multi-step tasks autonomously, not just answer questions</p>", "correct": true},
+        {"id": "q9_c", "text": "Consultants who help businesses implement AI", "textHtml": "<p>Consultants who help businesses implement AI</p>", "correct": false},
+        {"id": "q9_d", "text": "AI tools designed specifically for government agencies", "textHtml": "<p>AI tools designed specifically for government agencies</p>", "correct": false}
       ],
       "feedback": "AI agents represent an emerging trend where AI moves from answering questions to taking actions. AI agents can complete multi-step tasks autonomously—handling complex processes end-to-end with less human intervention needed for routine workflows. This creates new roles for humans in supervising rather than executing AI work.",
       "feedbackHtml": "<p>AI agents represent an emerging trend where AI moves from answering questions to taking actions. AI agents can complete multi-step tasks autonomously—handling complex processes end-to-end with less human intervention needed for routine workflows. This creates new roles for humans in supervising rather than executing AI work.</p>"
@@ -145,10 +145,10 @@
       "question": "What Te Ao Māori concept relates to being a good guardian of data in AI systems?",
       "questionHtml": "<p>What Te Ao Māori concept relates to being a good guardian of data in AI systems?</p>",
       "answers": [
-        {"id": "q10_a", "text": "Manaakitanga", "textHtml": "<p>Manaakitanga</p>", "isCorrect": false},
-        {"id": "q10_b", "text": "Whanaungatanga", "textHtml": "<p>Whanaungatanga</p>", "isCorrect": false},
-        {"id": "q10_c", "text": "Kaitiakitanga", "textHtml": "<p>Kaitiakitanga</p>", "isCorrect": true},
-        {"id": "q10_d", "text": "Tikanga", "textHtml": "<p>Tikanga</p>", "isCorrect": false}
+        {"id": "q10_a", "text": "Manaakitanga", "textHtml": "<p>Manaakitanga</p>", "correct": false},
+        {"id": "q10_b", "text": "Whanaungatanga", "textHtml": "<p>Whanaungatanga</p>", "correct": false},
+        {"id": "q10_c", "text": "Kaitiakitanga", "textHtml": "<p>Kaitiakitanga</p>", "correct": true},
+        {"id": "q10_d", "text": "Tikanga", "textHtml": "<p>Tikanga</p>", "correct": false}
       ],
       "feedback": "Kaitiakitanga relates to guardianship and being a good guardian of data. The course mentions considering whether AI applications align with tikanga values including: Manaakitanga (care for people), Kaitiakitanga (guardianship of data), and Whanaungatanga (supporting relationships). Tikanga is the broader term for customary practices.",
       "feedbackHtml": "<p>Kaitiakitanga relates to guardianship and being a good guardian of data. The course mentions considering whether AI applications align with tikanga values including: Manaakitanga (care for people), Kaitiakitanga (guardianship of data), and Whanaungatanga (supporting relationships). Tikanga is the broader term for customary practices.</p>"
