@@ -1,0 +1,166 @@
+{
+  "id": "how-ai-impacts-new-zealand-sme-s",
+  "title": "How AI Impacts New Zealand SMEs",
+  "description": "<p>A comprehensive course exploring how artificial intelligence is transforming small and medium enterprises across New Zealand. Learn about AI fundamentals, practical applications, and implementation strategies tailored specifically for the Kiwi business landscape.</p>",
+  "color": "#2563eb",
+  "coverImage": "cover.jpg",
+  "modules": [
+    {
+      "id": "01_Understanding_AI_Fundamentals",
+      "title": "Module 1: Understanding AI Fundamentals",
+      "index": 1,
+      "lessons": [
+        {
+          "id": "01_Understanding_AI_Fundamentals|||01_What_Is_Artificial_Intelligence",
+          "moduleId": "01_Understanding_AI_Fundamentals",
+          "title": "What Is Artificial Intelligence?",
+          "type": "content",
+          "index": 1,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/01_Understanding_AI_Fundamentals/01_What_Is_Artificial_Intelligence.md"
+        },
+        {
+          "id": "01_Understanding_AI_Fundamentals|||02_Types_Of_AI_Technologies",
+          "moduleId": "01_Understanding_AI_Fundamentals",
+          "title": "Types of AI Technologies",
+          "type": "content",
+          "index": 2,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/01_Understanding_AI_Fundamentals/02_Types_Of_AI_Technologies.md"
+        },
+        {
+          "id": "01_Understanding_AI_Fundamentals|||03_The_NZ_AI_Landscape",
+          "moduleId": "01_Understanding_AI_Fundamentals",
+          "title": "The New Zealand AI Landscape",
+          "type": "content",
+          "index": 3,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/01_Understanding_AI_Fundamentals/03_The_NZ_AI_Landscape.md"
+        },
+        {
+          "id": "01_Understanding_AI_Fundamentals|||04_AI_Myths_And_Realities",
+          "moduleId": "01_Understanding_AI_Fundamentals",
+          "title": "AI Myths and Realities for SMEs",
+          "type": "content",
+          "index": 4,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/01_Understanding_AI_Fundamentals/04_AI_Myths_And_Realities.md"
+        },
+        {
+          "id": "01_Understanding_AI_Fundamentals|||05_Quiz",
+          "moduleId": "01_Understanding_AI_Fundamentals",
+          "title": "Module 1 Quiz",
+          "type": "quiz",
+          "index": 5,
+          "quizPath": "/courses/how-ai-impacts-new-zealand-sme-s/01_Understanding_AI_Fundamentals/05_Quiz.json"
+        }
+      ]
+    },
+    {
+      "id": "02_AI_Applications_For_NZ_SMEs",
+      "title": "Module 2: AI Applications for NZ SMEs",
+      "index": 2,
+      "lessons": [
+        {
+          "id": "02_AI_Applications_For_NZ_SMEs|||01_Customer_Service_And_Chatbots",
+          "moduleId": "02_AI_Applications_For_NZ_SMEs",
+          "title": "Customer Service and Chatbots",
+          "type": "content",
+          "index": 1,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/02_AI_Applications_For_NZ_SMEs/01_Customer_Service_And_Chatbots.md"
+        },
+        {
+          "id": "02_AI_Applications_For_NZ_SMEs|||02_Marketing_And_Sales_Automation",
+          "moduleId": "02_AI_Applications_For_NZ_SMEs",
+          "title": "Marketing and Sales Automation",
+          "type": "content",
+          "index": 2,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/02_AI_Applications_For_NZ_SMEs/02_Marketing_And_Sales_Automation.md"
+        },
+        {
+          "id": "02_AI_Applications_For_NZ_SMEs|||03_Operations_And_Productivity",
+          "moduleId": "02_AI_Applications_For_NZ_SMEs",
+          "title": "Operations and Productivity",
+          "type": "content",
+          "index": 3,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/02_AI_Applications_For_NZ_SMEs/03_Operations_And_Productivity.md"
+        },
+        {
+          "id": "02_AI_Applications_For_NZ_SMEs|||04_Financial_Management_And_Forecasting",
+          "moduleId": "02_AI_Applications_For_NZ_SMEs",
+          "title": "Financial Management and Forecasting",
+          "type": "content",
+          "index": 4,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/02_AI_Applications_For_NZ_SMEs/04_Financial_Management_And_Forecasting.md"
+        },
+        {
+          "id": "02_AI_Applications_For_NZ_SMEs|||05_Industry_Specific_Applications",
+          "moduleId": "02_AI_Applications_For_NZ_SMEs",
+          "title": "Industry-Specific AI Applications",
+          "type": "content",
+          "index": 5,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/02_AI_Applications_For_NZ_SMEs/05_Industry_Specific_Applications.md"
+        },
+        {
+          "id": "02_AI_Applications_For_NZ_SMEs|||06_Quiz",
+          "moduleId": "02_AI_Applications_For_NZ_SMEs",
+          "title": "Module 2 Quiz",
+          "type": "quiz",
+          "index": 6,
+          "quizPath": "/courses/how-ai-impacts-new-zealand-sme-s/02_AI_Applications_For_NZ_SMEs/06_Quiz.json"
+        }
+      ]
+    },
+    {
+      "id": "03_Implementing_AI_In_Your_Business",
+      "title": "Module 3: Implementing AI in Your Business",
+      "index": 3,
+      "lessons": [
+        {
+          "id": "03_Implementing_AI_In_Your_Business|||01_Assessing_AI_Readiness",
+          "moduleId": "03_Implementing_AI_In_Your_Business",
+          "title": "Assessing Your AI Readiness",
+          "type": "content",
+          "index": 1,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/03_Implementing_AI_In_Your_Business/01_Assessing_AI_Readiness.md"
+        },
+        {
+          "id": "03_Implementing_AI_In_Your_Business|||02_Choosing_The_Right_AI_Tools",
+          "moduleId": "03_Implementing_AI_In_Your_Business",
+          "title": "Choosing the Right AI Tools",
+          "type": "content",
+          "index": 2,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/03_Implementing_AI_In_Your_Business/02_Choosing_The_Right_AI_Tools.md"
+        },
+        {
+          "id": "03_Implementing_AI_In_Your_Business|||03_Managing_Change_And_Training",
+          "moduleId": "03_Implementing_AI_In_Your_Business",
+          "title": "Managing Change and Training Your Team",
+          "type": "content",
+          "index": 3,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/03_Implementing_AI_In_Your_Business/03_Managing_Change_And_Training.md"
+        },
+        {
+          "id": "03_Implementing_AI_In_Your_Business|||04_Ethics_Privacy_And_Compliance",
+          "moduleId": "03_Implementing_AI_In_Your_Business",
+          "title": "Ethics, Privacy, and NZ Compliance",
+          "type": "content",
+          "index": 4,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/03_Implementing_AI_In_Your_Business/04_Ethics_Privacy_And_Compliance.md"
+        },
+        {
+          "id": "03_Implementing_AI_In_Your_Business|||05_Future_Proofing_Your_SME",
+          "moduleId": "03_Implementing_AI_In_Your_Business",
+          "title": "Future-Proofing Your SME",
+          "type": "content",
+          "index": 5,
+          "markdownPath": "/courses/how-ai-impacts-new-zealand-sme-s/03_Implementing_AI_In_Your_Business/05_Future_Proofing_Your_SME.md"
+        },
+        {
+          "id": "03_Implementing_AI_In_Your_Business|||06_Quiz",
+          "moduleId": "03_Implementing_AI_In_Your_Business",
+          "title": "Module 3 Quiz",
+          "type": "quiz",
+          "index": 6,
+          "quizPath": "/courses/how-ai-impacts-new-zealand-sme-s/03_Implementing_AI_In_Your_Business/06_Quiz.json"
+        }
+      ]
+    }
+  ]
+}
